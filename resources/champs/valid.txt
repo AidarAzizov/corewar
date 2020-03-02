@@ -1,0 +1,8 @@
+Asombra.cor Asombra.cor
+Asombra.cor Bazou.cor
+Asombra.cor Code_eater.cor
+Asombra.cor Douceur_power.cor
+Asombra.cor Eraser.cor
+Asombra.cor Explosive_Kitty.cor
+Asombra.cor ForgottenOne.cor
+Asombra.cor Gagnant.cor
